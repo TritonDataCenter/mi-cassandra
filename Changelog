@@ -1,0 +1,6 @@
+# Changelog for mi-cassandra
+
+cassandra-13.1.0
+* Base image is base64-13.1.0 (2013Q1)
+* Apache Cassandra version is 1.2.4
+* Initial release

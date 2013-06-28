@@ -1,0 +1,7 @@
+name="cassandra"
+organization="Joyent"
+brand="Instance"
+version="13.1.0"
+description="A SmartOS 64-bit image that comes with Apache Cassandra (1.2.4) and the Java JDK (1.6.0_26) pre-installed and configured."
+homepage="http://wiki.joyent.com/jpc2/Cassandra+Instance"
+users="root admin"
